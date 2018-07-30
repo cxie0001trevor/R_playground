@@ -1,6 +1,6 @@
 #Law of large number
 # Example of tossing coin
-head <-0
+head <- 0
 tail <- 0
 total <- 10000
 for(i in 1:total){

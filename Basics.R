@@ -78,7 +78,6 @@ vec1 <- 1:5
 # The normal distribution -- rnorm()
 # generate a set of numbers which are randomly
 # distributed according to the normal distribution
-rm(answer) 
 x <- rnorm(1)
 if(x > 1){
   print(paste(x, "Greater than 1"))
